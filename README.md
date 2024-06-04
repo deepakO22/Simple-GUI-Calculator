@@ -12,12 +12,12 @@ A simple and user-friendly calculator application built with Python's Tkinter li
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/Basic-GUI-Calculator.git
+    git clone https://github.com/deepakO22/Simple-GUI-Calculator.git
     ```
 
 2. Navigate to the project directory:
     ```sh
-    cd Basic-GUI-Calculator
+    cd Simple-GUI-Calculator
     ```
 
 3. Run the calculator:
